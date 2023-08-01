@@ -1,0 +1,13 @@
+title: Stax Moxta
+author:
+  name: stax-moxta
+  email: staxmoxta@proton.me
+
+description: >
+  Um blog sobre thelema, enochiano e esoterismo no geral!
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
